@@ -1,1 +1,0 @@
-run __Custom_Icon.py
